@@ -1,0 +1,3 @@
+Installtion of typescript: yarn workspace server add typescript -D
+Installtion of ts watch : yarn workspace server add tsc-watch -D
+Installtion of socketio in the backend server : yarn workspace server socket.io
